@@ -159,6 +159,7 @@ header nav ul li a{
 .positive-mindset{
     background-image:linear-gradient(to right, rgba(205, 60, 5, 0.87), rgba(255, 255, 255, 0)), url(../images/watch.png);
     height: 300px;
+   
 }
 .positive-mindset .positive-mindset-content{
     padding: 59px 64px;
@@ -169,6 +170,66 @@ header nav ul li a{
     line-height: 47px;
     margin-bottom: 24px;
 }
+
+/* footer seaction style */
+footer{
+    background-color: #151414;
+    margin-top: 130px;
+}
+footer .contact{
+   display: flex;
+   padding: 130px 230px;
+   gap: 330px;
+}
+footer .contact .contact-title{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+    margin-bottom: 16px;
+ }
+ footer .contact .contact-discription{
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+ }
+ footer .contact .contact-info{
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+ }
+ footer .contact .icon{
+    margin-top: 30px;
+ }
+ footer .contact .icon a{
+    margin-top: 30px;
+    color: #FFFFFF;
+    margin-right: 15px;
+    font-size: 20px;
+ }
+ footer .contact .contact-form-title{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+ }
+ footer .contact input{
+   width: 100%;
+   padding: 22px 21px;
+   border-radius: 8px;
+   margin-bottom: 16px;
+   border: 1px solid #FFFFFF;
+   font-size: 18px;
+   line-height: 21px;
+   color: #F3F3F3;
+   background-color: #151414;
+   outline: none;
+
+ }
+
+
 
 
 
